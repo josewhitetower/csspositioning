@@ -5,7 +5,9 @@
 
 **Today's Progress**:   
 1. Today I learnt about CSS POsitioning.  
+2. Normal document flow.   
  
 
 **Thoughts**:     
-1. `display:inline-block` make the inline elements like `a or span` to behave like blocks elements like `p or div`.   
+1. `display:inline-block` makes the inline elements like `a or span` to behave like blocks elements like `p or div`.  
+2.  `line-height` defines the height of the line in a text, the space between lines
