@@ -1,0 +1,12 @@
+body {
+    border: 1px solid red;
+}
+
+p,
+a {
+    width: 15%;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    display: inline-block
+}
