@@ -5,11 +5,13 @@
 **Today's Progress**:   
 1. Today I learnt about Floating Columns.  
 2. Text columns.  
+3. Postion Relative.  
  
 
 **Thoughts**:     
 1. `float: left; width: 46%;` to divide it in two columns.  
 2. `column-count, column-gap, column-rule` to separate the comulumns.  
+3. When `position:relative` is set, you can offset the elemnts witht `left, right, top, bottom`.  S 
 
 ### Day 12: September 9, 2017    
 
