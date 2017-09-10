@@ -6,13 +6,15 @@
 1. Today I learnt about Floating Columns.  
 2. Text columns.  
 3. Postion Relative.  
+4. Fixed Position.  
  
 
 **Thoughts**:     
 1. `float: left; width: 46%;` to divide it in two columns.  
 2. `column-count, column-gap, column-rule` to separate the columns.  
 3. When `position:relative` is set, you can offset the elements witht `left, right, top, bottom`.  I will keep the element in normal document flow
-4. `position:absolute` will remove an element from the normal document flow. It's position will be absolute compare to its closest relative parent element.  
+4. `position:absolute` will remove an element from the normal document flow. It's position will be absolute compare to its closest relative parent element. 
+5.`position:fixed` Always is relative to the document window. Will remove an element from the normal document flow. 
 
 ### Day 12: September 9, 2017    
 

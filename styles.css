@@ -85,6 +85,27 @@ aside {
     font-size: 48px
 }
 
+nav {
+    background: #4B4848;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+nav ul:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+nav li {
+    list-style-type: none;
+    margin: 0 10px;
+    color: #fff;
+    float: right;
+}
+
 @media screen and (max-width:720px) {
     .service {
         width: 46%;
