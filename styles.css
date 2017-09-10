@@ -86,11 +86,12 @@ aside {
 }
 
 nav {
-    background: #4B4848;
+    background: #333;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 1;
 }
 
 nav ul:after {
