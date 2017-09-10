@@ -10,8 +10,9 @@
 
 **Thoughts**:     
 1. `float: left; width: 46%;` to divide it in two columns.  
-2. `column-count, column-gap, column-rule` to separate the comulumns.  
-3. When `position:relative` is set, you can offset the elemnts witht `left, right, top, bottom`.  S 
+2. `column-count, column-gap, column-rule` to separate the columns.  
+3. When `position:relative` is set, you can offset the elements witht `left, right, top, bottom`.  I will keep the element in normal document flow
+4. `position:absolute` will remove an element from the normal document flow. It's position will be absolute compare to its closest relative parent element.  
 
 ### Day 12: September 9, 2017    
 
