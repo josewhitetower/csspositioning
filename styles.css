@@ -39,9 +39,23 @@ wrapper:after {
 
 .content {
     padding: 10px;
-    background: #ccc;
+    background: #eee;
     clear: both;
-    margin-top: 200px
+    margin-top: 20px 1%
+}
+
+section,
+aside {
+    float: left;
+    width: 46%;
+    padding: 1%;
+    margin: 1%;
+}
+
+.columns:after {
+    display: block;
+    content: "";
+    clear: both;
 }
 
 @media screen and (max-width:720px) {
@@ -54,6 +68,13 @@ wrapper:after {
 
 @media screen and (max-width:480px) {
     .service {
+        width: 96%;
+        padding: 1%;
+        margin: 1%;
+    }
+    section,
+    aside {
+        float: left;
         width: 96%;
         padding: 1%;
         margin: 1%;
