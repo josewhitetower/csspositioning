@@ -43,3 +43,22 @@ wrapper:after {
     clear: both;
     margin-top: 200px
 }
+
+@media screen and (max-width:720px) {
+    .service {
+        width: 46%;
+        padding: 1%;
+        margin: 1%;
+    }
+    .services:last-child {
+        margin: auto;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .service {
+        width: 96%;
+        padding: 1%;
+        margin: 1%;
+    }
+}
