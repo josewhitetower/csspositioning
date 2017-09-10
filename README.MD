@@ -3,11 +3,13 @@
 ### Day 12: September 9, 2017    
 
 **Today's Progress**:   
-1. Today I learnt about Floating Columns
+1. Today I learnt about Floating Columns.  
+2. Text columns.  
  
 
 **Thoughts**:     
-1. `float: left; width: 46%;` to divide it in two columns
+1. `float: left; width: 46%;` to divide it in two columns.  
+2. `column-count, column-gap, column-rule` to separate the comulumns.  
 
 ### Day 12: September 9, 2017    
 
