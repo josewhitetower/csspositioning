@@ -50,9 +50,6 @@ wrapper:after {
         padding: 1%;
         margin: 1%;
     }
-    .services:last-child {
-        margin: auto;
-    }
 }
 
 @media screen and (max-width:480px) {
