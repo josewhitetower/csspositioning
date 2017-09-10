@@ -73,6 +73,10 @@ aside {
         width: 46%;
         padding: 1%;
         margin: 1%;
+        position: relative;
+    }
+    .service:last-child {
+        left: 25%
     }
 }
 
@@ -81,6 +85,9 @@ aside {
         width: 96%;
         padding: 1%;
         margin: 1%;
+    }
+    .service:last-child {
+        left: 0;
     }
     section,
     aside {
