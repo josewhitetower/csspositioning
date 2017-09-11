@@ -1,6 +1,6 @@
 # CSS Positioning-playlist log
 
-### Day 12: September 9, 2017    
+### Day 13: September 10, 2017    
 
 **Today's Progress**:   
 1. Today I learnt about Floating Columns.  
